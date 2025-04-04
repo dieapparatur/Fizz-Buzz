@@ -3,10 +3,13 @@
 
 std::string FizyBizy (int input) {
 
- return "Test";
+    std::string output = "Test";
+    return output;
 }
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    int input = 2;
+    FizyBizy(input);
     return 0;
 }

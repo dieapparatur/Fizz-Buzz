@@ -8,11 +8,10 @@ void FizzBuzz(int input) {
         if (input % 5 == 0) {
             std::cout << "Buzz" << std::endl;
         } else {
-        std:: cout << input << std::endl;
+            std:: cout << input << std::endl;
+        }
     }
-
 }
-
 
 int main() {
 

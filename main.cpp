@@ -11,7 +11,7 @@ int main() {
         std::cout << "Fizz" << std::endl;
     }
     if (input % 5) {
-        
+        std::cout << "Buzz" << std::endl;
     }
 
     std::cout << "Hello, World!" << std::endl;

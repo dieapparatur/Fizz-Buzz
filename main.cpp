@@ -8,7 +8,7 @@ int main() {
     std::cin >> input;
 
     if (input % 3 == 0) {
-        std::cout << "Fizz" << std::endl;
+        std::cout << "Fizz";
     }
     if (input % 5 == 0) {
         std::cout << "Buzz" << std::endl;

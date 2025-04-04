@@ -12,7 +12,7 @@ void FizzBuzz(int input) {
 
 int main() {
 
-
+    std::cout << "Gib mir eine Nummer und ich lass es Fizzen oder Buzzen, vielleicht sogar beides<3" << std::endl;
     int input;
 
     std::cin >> input;

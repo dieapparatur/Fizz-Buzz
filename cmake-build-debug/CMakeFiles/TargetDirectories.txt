@@ -1,0 +1,3 @@
+/Users/fynnnegele/Documents/Technikum/SecondSemester/ObjectProgramming/FizzBuzz/cmake-build-debug/CMakeFiles/FizzBuzz.dir
+/Users/fynnnegele/Documents/Technikum/SecondSemester/ObjectProgramming/FizzBuzz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fynnnegele/Documents/Technikum/SecondSemester/ObjectProgramming/FizzBuzz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

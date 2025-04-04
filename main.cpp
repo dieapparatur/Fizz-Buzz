@@ -13,10 +13,9 @@ int main() {
     if (input % 5) {
         std::cout << "Buzz" << std::endl;
     }
-    if (input % 3 && input % 5) {
+    /*if (input % 3 && input % 5) {
         std::cout << "FizzBuzz" << std::endl;
-    }
+    }*/
 
-    std::cout << "Hello, World!" << std::endl;
     return 0;
 }

@@ -4,6 +4,7 @@ int FizzBuzz(int input) {
     if (input % 3 == 0) {
         std::cout << "Fizz";
     }
+
     return input;
 }
 
@@ -15,9 +16,7 @@ int main() {
 
     std::cin >> input;
 
-    if (input % 3 == 0) {
-        std::cout << "Fizz";
-    }
+ 
     if (input % 5 == 0) {
         std::cout << "Buzz" << std::endl;
     }

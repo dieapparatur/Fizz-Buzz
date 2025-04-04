@@ -3,14 +3,17 @@
 
 std::string FizyBizy (int input) {
 
+
+
     std::string output = "Test";
     return output;
 }
 
 int main() {
     std::cout << "Bitte gebe FizyBizy eine beliebige Integer" << std::endl;
+    int input;
 
-    int input = 2;
+    
     FizyBizy(input);
     return 0;
 }

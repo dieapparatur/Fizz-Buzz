@@ -1,5 +1,10 @@
 #include <iostream>
 
+int FizzBuzz(int input) {
+    return input;
+}
+
+
 int main() {
 
 

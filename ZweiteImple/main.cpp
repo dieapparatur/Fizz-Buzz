@@ -13,7 +13,8 @@ int main() {
     std::cout << "Bitte gebe FizyBizy eine beliebige Integer" << std::endl;
     int input;
 
-    
+    std::cin >> input;
+
     FizyBizy(input);
     return 0;
 }

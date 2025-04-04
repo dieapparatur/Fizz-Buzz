@@ -1,6 +1,9 @@
 #include <iostream>
 
 int FizzBuzz(int input) {
+    if (input % 3 == 0) {
+        std::cout << "Fizz";
+    }
     return input;
 }
 

@@ -8,6 +8,7 @@ std::string FizyBizy (int input) {
 }
 
 int main() {
+    std::cout << "Bitte gebe FizyBizy eine beliebige Integer" << std::endl;
 
     int input = 2;
     FizyBizy(input);
